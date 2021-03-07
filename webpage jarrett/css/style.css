@@ -1,0 +1,74 @@
+.name{
+	margin: 30px;
+	padding: 0;
+	text-align: center;
+	color: red;
+	top: 10%;
+  left: 1%;
+}
+.background a{
+	width: 100%;
+	height: 100%;
+	background-image: url(‪"background.jpg");
+	background-repeat: no-repeat;
+	background size: cover;
+	position: relative;
+	overflow-y: auto;
+}
+.nav a{
+	width: 500px;
+	height: auto;
+	background color: gray;
+	position: absolute;
+	top: 50%;
+
+}
+.nav {
+	text-decoration: none;
+	font size: 10px;
+	font-family: vernada;
+	font-weight: bold; 
+	width: 100%;
+	height: 100px;
+	margin: 5px 0;
+	float: left;
+	display: inline-block;
+	background color: black;
+	color: white;
+	line-height: 90px;
+	text-align: center;
+}
+.name{
+	margin: 30px;
+	padding: 0;
+	top: 100%;
+	bottom: 100px;
+}
+div.a {
+	float: left;
+	padding-bottom: 10px;
+	padding-top: 150px;
+	text-align: center;
+	bottom: 0px;
+	width: 30%;;
+}
+
+div.b {
+  float: left;
+	padding-bottom: -100px;
+	padding-top: 200px;
+	text-align: center;
+	bottom: 20px;
+	width: -100%;
+}
+
+.box a{
+	width: 100%;
+	height: 100%;
+	background-image: url(‪"background.jpg");
+	background-repeat: no-repeat;
+	background size: cover;
+	position: relative;
+	overflow-y: auto;
+}
+
